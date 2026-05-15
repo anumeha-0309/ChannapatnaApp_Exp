@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ChannapatnaApp</string>
+    <string name="title">Channapatna - Namma Pride</string>
+
+    <string name="verify">Verify</string>
+    <string name="how">Process</string>
+    <string name="maker">Artisans</string>
+    <string name="catalog">Catalog</string>
+    <string name="home">Home</string>
+
+    <string name="enter_id">Enter Toy ID</string>
+    <string name="verify_btn">Verify</string>
+    <string name="search_hint">Search...</string>
+    <string name="search_artisans_hint">Search artisans...</string>
+
+    <string name="how_title">How Channapatna Toys Are Made</string>
+    <string name="how_description">Discover the centuries-old traditional craft of making Channapatna toys, where every piece is handcrafted with love and natural materials.</string>
+
+    <!-- TOY DETAILS (Expanded) -->
+    <string name="origin_label">Origin:</string>
+    <string name="material_label">Material:</string>
+    <string name="age_label">Age Group:</string>
+
+    <string name="channapatna_origin">Channapatna, Karnataka, India</string>
+    <string name="wood_material">Aale Mara (Wrightia Tinctoria), Natural Lac</string>
+    <string name="safe_age">0+ Months (Safe for Infants)</string>
+    <string name="kids_age">3+ Years</string>
+
+    <string name="desc_horse">The Wooden Horse is the most iconic of Channapatna toys. Historically, these were commissioned by royalty and are now a staple in every Indian household. Each horse is meticulously turned on a lathe and joined without a single metal nail.\n\nCrafted from sustainable Aale Mara wood, it features a sturdy build and is hand-painted with organic dyes derived from turmeric and indigo. The vibrant colors are fused into the wood fibers, ensuring they never chip.\n\nIt stands as a symbol of the rich folk heritage of Karnataka, representing the strength and spirit of the local craftsmanship that has survived for over two centuries.</string>
+
+    <string name="desc_top">The Channapatna Spinning Top is a marvel of physics and art. Designed for perfect balance, these tops can spin for several minutes on a smooth surface. They are one of the oldest forms of entertainment in the region.\n\nEach top is polished using traditional screw pine leaves to achieve a glass-like finish without any chemical varnishes. The colors are applied using the friction-heat method, making the surface incredibly smooth and durable.\n\nPlaying with these tops helps children develop fine motor skills and hand-eye coordination, all while engaging with a piece of cultural history that dates back to the era of Tipu Sultan.</string>
+
+    <string name="desc_puzzle">Our Handcrafted Puzzles are designed to challenge young minds while staying rooted in tradition. Unlike plastic puzzles, these wooden pieces provide a tactile experience that stimulates sensory development.\n\nEvery piece is rounded and sanded to perfection, ensuring absolute safety for children. The organic dyes used are completely non-toxic, making it safe even if a child decides to taste the pieces.\n\nThese puzzles often depict traditional Indian motifs or simple geometric shapes, blending educational value with the timeless aesthetic of Channapatna woodcraft.</string>
+
+    <string name="desc_rattle">The Eco-Friendly Rattle is the perfect first toy for any infant. The gentle sound is created by small wooden beads trapped inside a hollowed-out chamber, providing a soothing auditory experience.\n\nThe smooth, rounded handle is sized perfectly for tiny hands to grasp. Because it is finished with 100% natural vegetable dyes, parents can rest easy knowing it is completely safe for teething babies to chew on.\n\nThis rattle is not just a toy; it\'s a sustainable alternative to plastic, teaching the values of nature and tradition from the very first days of life.</string>
+
+    <string name="desc_doll">Channapatna Decorative Dolls are world-renowned for their minimalist yet expressive design. These dolls often represent traditional Indian life, featuring costumes and ornaments from different regions of India.\n\nThe dolls are made using the same lathe-turning techniques as the toys, resulting in smooth, elegant curves. The natural lac finish gives them a vibrant, glossy appearance that never fades over time.\n\nHighly collectible, these dolls serve as beautiful home decor pieces and are frequently used in traditional Gombe Habba (festival of dolls) displays during Dasara in Karnataka.</string>
+
+    <!-- VERIFY RESULT -->
+    <string name="result_ramesh">Ramesh - Wooden Horse</string>
+    <string name="result_suresh">Suresh - Puzzle Toy</string>
+    <string name="result_lakshmi">Lakshmi - Lac Coloring Artist</string>
+    <string name="invalid_toy">Fake or Invalid Toy ID. Please check the code on your toy\'s authenticity tag.</string>
+    <string name="verified_status">VERIFIED AUTHENTIC</string>
+    <string name="view_profile">View Artisan Profile</string>
+
+    <!-- HOW IT\'S MADE (3 Paras each) -->
+    <string name="doll_title">Channapatna Doll</string>
+    <string name="doll_how_to">The journey of a Channapatna doll begins with the careful selection of Wrightia tinctoria, locally known as Aale Mara. This wood is chosen for its softness and fine grain, which makes it ideal for intricate carving. Once sourced, the wood is seasoned for several weeks to ensure it doesn\'t warp or crack during the shaping process.\n\nAfter seasoning, the wood is mounted on a traditional lathe. The artisan uses sharp chisels to shave off layers, slowly revealing the doll\'s form while the lathe spins at high speeds. This stage requires immense precision and a steady hand, as even a minor slip can ruin hours of work. The smooth, cylindrical finish is a hallmark of the Channapatna style.\n\nThe final and most vibrant stage is the lacquering. Natural lac, a resin secreted by insects, is mixed with vegetable dyes like turmeric for yellow, indigo for blue, and vermilion for red. While the toy spins on the lathe, the artisan presses the lac sticks against the wood, the heat from friction melting the color onto the surface. A final polish with screw pine leaves gives the doll its signature glass-like glow.</string>
+
+    <string name="rattle_title">Eco-Friendly Rattle</string>
+    <string name="rattle_how_to">Crafting a baby rattle involves a deep commitment to safety and sustainability. The wood used is entirely non-toxic and sourced from local sustainable plantations. Artisans first hollow out a small chamber in the main body piece, which will later hold the natural wooden beads that create the rattle\'s gentle, soothing sound.\n\nSafety is the top priority during the assembly. Every edge is meticulously rounded and sanded down to a silky smoothness, ensuring there are no splinters or sharp corners that could harm an infant. Unlike modern plastic toys, these rattles are made with a single-piece design or joined using organic resins, making them incredibly durable and safe for teething babies to chew on.\n\nTo finish the rattle, only 100% natural vegetable dyes are used. These colors are derived from plants and minerals, ensuring that the toy is completely chemical-free. The vibrant reds, yellows, and greens are fused into the wood fibers using the traditional heat-friction lacquering technique, which means the color will never chip or peel off, even after years of play.</string>
+
+    <string name="horse_title">Wooden Horse</string>
+    <string name="horse_how_to">The wooden horse is a masterpiece of modular construction. Unlike smaller toys, a horse is composed of several distinct parts: the head, the torso, and the four legs. Each part is turned individually on the lathe to achieve perfect symmetry. The artisan must ensure that the proportions are exact so that the pieces fit together seamlessly in the final assembly.\n\nOnce all the parts are shaped, they are joined using a traditional joinery method that avoids the use of metal nails or screws. This \"all-wood\" construction is not only more aesthetic but also safer and more traditional. The joints are reinforced with natural adhesives made from tree resins, creating a bond that is often stronger than the wood itself, allowing the toy to survive generations of use.\n\nThe decoration of the horse involves intricate \"line-work\" lacquering. Fine details like the saddle, the mane, and the eyes are applied using thin sticks of colored lac while the parts are spinning. This requires a master level of skill to ensure the lines are crisp and even. The final result is a timeless toy that serves as both a plaything and a beautiful piece of traditional Indian folk art.</string>
+
+    <!-- ARTISAN STORIES (3 Paras each) -->
+    <string name="ramesh_story">Ramesh was born into a family of artisans whose lineage in Channapatna dates back over four generations. As a child, he spent his afternoons in his father\'s workshop, mesmerized by the spinning lathe and the vibrant clouds of wood shavings. By the age of twelve, he had already mastered the basic techniques of wood turning, showing a natural talent for capturing life-like forms in wood.\n\nToday, Ramesh is recognized as one of the village\'s most senior experts in large-scale wooden animal figures. He has dedicated his life to perfecting the \"Hale Wood\" seasoning process, ensuring that his creations can withstand various climates for export. His workshop has become a hub for quality, where he meticulously oversees every stage of production, from the initial wood cut to the final leaf polish.\n\nBeyond his own craft, Ramesh is a passionate advocate for the artisan community. He runs a small training center where he teaches young men the traditional methods, fearing that the art might be lost to modern mass production. He believes that every toy carries a piece of the artisan\'s soul, and his goal is to ensure that the Channapatna legacy continues to thrive in the hearts of the next generation.</string>
+
+    <string name="suresh_story">Suresh is known as the \"Engineer of Channapatna\" for his incredible ability to create complex mechanical toys and puzzles. While most artisans focus on static figures, Suresh has always been fascinated by movement. He spent years experimenting with wooden gears, pulleys, and joints to create toys that hop, spin, and climb, all powered by simple physics and a child\'s touch.\n\nHis journey wasn\'t always easy. During the decline of traditional toys in the 90s, Suresh struggled to keep his workshop open. However, his innovative approach to puzzles saved his business. He realized that modern parents were looking for educational value, so he adapted traditional techniques to create brain-teasers that are now sold in high-end toy boutiques across the globe.\n\nSuresh\'s puzzles are more than just games; they are works of art. Each piece of a puzzle is turned on a lathe, making them uniquely rounded and satisfying to hold. He continues to push the boundaries of the craft, often collaborating with designers from Bangalore to blend traditional Channapatna aesthetics with contemporary geometric patterns, proving that an ancient craft can always find a new audience.</string>
+
+    <string name="lakshmi_story">Lakshmi is a pioneer in a field that was traditionally dominated by men. Growing up, she was told that the heavy lathe work was not for women, but her passion for the vibrant colors of lac was undeniable. She started by helping her husband with the final polishing, but secretly practiced wood turning whenever the workshop was empty, eventually surpassing even the most seasoned masters.\n\nShe is now celebrated as the finest Lac Coloring Artist in the region. Lakshmi has a unique \"signature\" color palette, using subtle gradients and floral motifs that no one else can replicate. Her work is highly sought after for its delicate beauty and the sheer intensity of the colors she achieves using organic dyes she prepares herself from forest seeds and bark.\n\nRecognizing the challenges she faced, Lakshmi has founded a women\'s cooperative in her village. She has trained over 150 local women, providing them with the tools and skills to achieve financial independence. Her cooperative now handles some of the largest orders in Channapatna, and Lakshmi\'s story has become a beacon of empowerment, showing that the spirit of the craft knows no gender.</string>
+
+    <string name="anil_story">Anil represents the new wave of eco-conscious artisans in Channapatna. While he respects the traditions of his ancestors, he has modernized the supply chain to ensure complete sustainability. He works directly with local farmers to source wood only from trees that have reached the end of their life cycle, ensuring that the forest remains healthy and vibrant for the future.\n\nIn his workshop, nothing goes to waste. Anil has developed a method to use wood shavings as mulch for local gardens and uses the smallest offcuts to create miniature keychains and jewelry. He is also a master of natural dye extraction, spending his weekends foraging for roots and berries to create a spectrum of colors that are 100% biodegradable and safe for the environment.\n\nAnil\'s commitment to the earth has earned him numerous awards for sustainable design. He often travels to schools and colleges to speak about the importance of \"Slow Toys\" in a world of plastic waste. For Anil, Channapatna toys are not just products; they are a philosophy of living in harmony with nature, a message he embeds into every smooth, colorful surface he creates.</string>
+
+    <string name="meena_story">Meena is the bridge between the traditional workshops of Channapatna and the global design world. After studying fine arts in Delhi, she returned to her roots with a vision to revitalize the craft. She realized that while the techniques were perfect, the designs needed to evolve to stay relevant in modern homes and international markets.\n\nShe specializes in \"Contemporary Heritage,\" a style that uses traditional Channapatna lathe-turning and lacquering to create modern home decor, minimalist toys, and even fashion accessories. Her ability to translate international trends into the Channapatna idiom has opened doors to major retailers in Europe and North America, bringing much-needed prosperity back to her village artisans.\n\nDespite her international success, Meena remains deeply rooted in her community. She spends most of her time in the workshops, working side-by-side with master craftsmen to develop new shapes and color combinations. She acts as a mentor to young designers, encouraging them to find their own voice within the tradition. For Meena, the future of Channapatna lies in its ability to reinvent itself while staying true to its handmade, natural essence.</string>
+
+    <!-- UI STRINGS -->
+    <string name="choose_language">Choose Language</string>
+    <string name="english">English</string>
+    <string name="hindi">हिंदी</string>
+    <string name="kannada">ಕನ್ನಡ</string>
+    <string name="app_logo">App Logo</string>
+    <string name="artisan_image">Artisan Image</string>
+    <string name="toy_image">Toy Image</string>
+    <string name="maker_image">Maker Image</string>
+    <string name="artisans_at_work">Artisans at work</string>
+    <string name="know_more">Know More</string>
+    <string name="know_story">Know Their Story</string>
+    <string name="contact">Contact:</string>
+    <string name="place">Place:</string>
+    <string name="verified">Verified</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="contact_number">+91 98765 43210</string>
+    <string name="channapatna_place">Channapatna</string>
+    <string name="their_story">Their Story</string>
+    <string name="work_showcase">Work Showcase</string>
+    <string name="work_1">Work 1</string>
+    <string name="work_2">Work 2</string>
+    <string name="work_3">Work 3</string>
+    <string name="swipe_hint">Swipe left to see more artisans →</string>
+    <string name="how_it_made_image">How it is made image</string>
+    <string name="role_expert">Wooden Toys Expert</string>
+    <string name="role_puzzle">Puzzle Maker</string>
+    <string name="role_artist">Lac Coloring Artist</string>
+    <string name="role_craftsman">Traditional Craftsman</string>
+    <string name="role_designer">Toy Designer</string>
+    <string name="change_language">Language</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="our_master_artisans">Our Master Artisans</string>
+
+    <!-- ARRAYS -->
+    <string-array name="maker_names">
+        <item>Ramesh</item>
+        <item>Suresh</item>
+        <item>Lakshmi</item>
+        <item>Anil</item>
+        <item>Meena</item>
+    </string-array>
+
+    <string-array name="maker_roles">
+        <item>@string/role_expert</item>
+        <item>@string/role_puzzle</item>
+        <item>@string/role_artist</item>
+        <item>@string/role_craftsman</item>
+        <item>@string/role_designer</item>
+    </string-array>
+
+    <string-array name="catalog_list">
+        <item>Wooden Horse</item>
+        <item>Spinning Top</item>
+        <item>Puzzle Toy</item>
+        <item>Baby Rattle</item>
+        <item>Decorative Dolls</item>
+    </string-array>
+
+    <string name="register_as_artist">Register as an Artisan</string>
+    <string name="join_community">Join our community of master craftsmen and showcase your work to the world.</string>
+    <string name="full_name">Full Name</string>
+    <string name="expertise">Area of Expertise (e.g. Lac Coloring)</string>
+    <string name="experience">Years of Experience</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="address">Workshop Address / Location</string>
+    <string name="submit_registration">Submit Application</string>
+    <string name="registration_success">Registration submitted! We will contact you soon.</string>
+    <string name="upload_photo">Upload Profile Photo</string>
+    <string name="authenticate_toy">Authenticate Your Toy</string>
+    <string name="discover_magic">Discover the Magic of Wood</string>
+    <string name="explore_heritage">Explore Our Heritage</string>
+    <string name="decorative">Decorative</string>
+    <string name="banner">Banner</string>
+    <string name="scan_qr">Scan QR Code</string>
+    <string name="qr_hint">Point your camera at the authenticity tag</string>
+    <string name="or">--- OR ---</string>
+    <string name="scan_nfc">Tap NFC Tag</string>
+    <string name="nfc_hint">Bring your phone near the toy\'s base</string>
+</resources>
