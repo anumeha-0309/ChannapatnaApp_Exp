@@ -41,18 +41,13 @@ Channapatna – Namma Pride is an Android application developed using Kotlin and
 ## Screenshots
 
 ### Home Screen
-
-
-
-### Toy Verification
-
-
+![Home Screen](images/image1.png)
 
 ### Meet the Maker
+![Meet the Maker](images/image2.png)
 
-
-
-### AI Storytelling
+### Artisan Profile
+![Artisan Profile](images/image3.png)
 
 
 
